@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="dist/lib/jain-sdp-1.0.1111.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jain-sdp-src-1.0.1111.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jain-sip-api-1.2-src.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jain-sip-api-1.2.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jain-sip-ri-1.2.1111.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jain-sip-sdp-1.2.1111.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jain-sip-src-1.2.1111.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jain-sip-tck-1.2.1111.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jain-sip-unit-test-1.2.1111.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jfoenix-8.0.7.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jmf.jar"/>
+	<classpathentry kind="lib" path="dist/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="dist/Test.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
